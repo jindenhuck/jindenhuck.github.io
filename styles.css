@@ -1,0 +1,26 @@
+
+h1 {
+    text-align: center;
+    margin-top: 8px;
+    color: #13315C;
+    font-family: verdana;
+    font-size: 200%;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 6px;
+    color: #62b0f0;
+    font-family: verdana;
+    font-size: 200%;
+}
+
+p {
+    color: rgb(160, 32, 32);
+    text-align: center;
+  }
+
+body {
+    height: 100vh;
+    background: #ddf1e2;
+}
